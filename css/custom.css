@@ -1,0 +1,13 @@
+.bg-gray {
+    /* background-color: #4F575E; */
+    background-color: #6C747C;
+}
+
+.overlay {
+    opacity: 0.7; 
+}
+
+.btn-primary {
+    background-color: #6C5BAD;
+    border-color: #6C5BAD;
+}
